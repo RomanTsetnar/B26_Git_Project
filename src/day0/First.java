@@ -2,8 +2,9 @@ package day0;
 
 public class First {
     public static void main(String[] args) {
-        //todo: work on this tomorrow.
-        // add some code.
+        System.out.println("java");
+        System.out.println("getting ready to go to sauna");
+        System.out.println("getting new shoes today");
 
 
         // extra line 1
